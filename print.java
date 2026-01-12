@@ -7,3 +7,10 @@ class Print
       System.out.println("Hi");
     }
   }
+
+
+--------------------------------------------------------------------------
+
+Day 12:
+
+Renamed this file and pushed remotely.
