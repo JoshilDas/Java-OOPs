@@ -1,0 +1,1 @@
+Studying IntelliJ Java Structure.
