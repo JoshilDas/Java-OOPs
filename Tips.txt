@@ -1,0 +1,3 @@
+Updated .gitignore
+
+Tips.docs and Tips2.docs are not visible
