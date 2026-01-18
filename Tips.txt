@@ -1,3 +1,8 @@
 Updated .gitignore
 
-Tips.docs and Tips2.docs are not visible
+Tips.docx and Tips2.docx are not visible
+
+Well , 
+Since Tips.docx existed before .docx was added to .gitignore
+therefore earlier version are retained online
+but no new commits(after .gitignore updation) involve .docx now. 
