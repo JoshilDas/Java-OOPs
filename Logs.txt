@@ -1,0 +1,17 @@
+Updated .gitignore
+
+Tips.docx and Tips2.docx are not visible
+
+Well , 
+Since Tips.docx existed before .docx was added to .gitignore
+therefore earlier version are retained online
+but no new commits(after .gitignore updation) involve .docx now.
+
+-----------------------------------------------------------------------------------
+
+19th Jan:
+
+Renamed "index.java" ---> "open.java" but didnot modify the content.
+Renamed "Tips.txt" ---> "Logs.txt" AND modified the content of the File.
+
+-----------------------------------------------------------------------------------
