@@ -1,0 +1,1 @@
+Checking if the this file inside a folder is shown on Github.
