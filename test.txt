@@ -1,0 +1,2 @@
+Now i will open GitBash inside the folder "IgnoredFiles".
+Do "git add -A" to see if this "test.txt" which is outside the folder is added. 
