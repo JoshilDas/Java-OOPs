@@ -1,0 +1,11 @@
+ 10 files changed, 1 insertion(+), 1 deletion(-)
+ rename !!NoFileTypeDefined!!! => Experiments Uptil Jan'26/!!NoFileTypeDefined!!! (97%)
+ rename .gitignore => Experiments Uptil Jan'26/.gitignore (100%)
+ rename DSA Significance => Experiments Uptil Jan'26/DSA Significance (100%)
+ rename {IgnoredFiles => Experiments Uptil Jan'26/IgnoredFiles}/MujhePadho.txt (100%)
+ rename {IgnoredFiles => Experiments Uptil Jan'26/IgnoredFiles}/NewTest.txt (100%)
+ rename Logs.txt => Experiments Uptil Jan'26/Logs.txt (100%)
+ rename Open.java => Experiments Uptil Jan'26/Open.java (100%)
+ rename test.txt => Experiments Uptil Jan'26/test.txt (100%)
+ delete mode 100644 IgnoredFiles/Tips.docx
+ delete mode 100644 IgnoredFiles/Tips2.docx
