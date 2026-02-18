@@ -1,0 +1,8 @@
+Binary Search
+Bubble Sort
+Cycle Detection in a Singly Linked List
+Star Pattern
+Frequency In A Sorted Array
+Sort Array
+All Prime Numbers less than or equal to N
+Candles Height
