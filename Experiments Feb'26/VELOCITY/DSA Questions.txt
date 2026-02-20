@@ -1,5 +1,5 @@
 Binary Search
-Bubble Sort
+Bubble Sort , Selection Sort , Merge Sort
 Cycle Detection in a Singly Linked List
 Star Pattern
 Frequency In A Sorted Array
