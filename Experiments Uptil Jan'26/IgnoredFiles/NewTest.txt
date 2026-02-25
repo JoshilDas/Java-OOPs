@@ -1,1 +1,0 @@
-WOuld add this file and "Test.txt " outside this folder by opening gitbash here.
