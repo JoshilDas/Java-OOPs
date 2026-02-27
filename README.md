@@ -177,7 +177,13 @@ Objective:
 
 ## 🌊 AESTHETIC DIVIDER
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---
+
+## 🌊 AESTHETIC DIVIDER
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
@@ -185,9 +191,9 @@ Objective:
 
 This repository is a controlled explosion of curiosity.
 
-It is not optimized.
-It is not structured.
-It is not stable.
+It is not optimized.  
+It is not structured.  
+It is not stable.  
 
 It is intentional chaos for the purpose of learning GitHub deeply.
 
@@ -203,6 +209,6 @@ It is intentional chaos for the purpose of learning GitHub deeply.
 ### ⚠️ Disclaimer
 
 If something breaks,  
-it was probably on purpose.
+it was probably on purpose.  
 
 Or was it?
