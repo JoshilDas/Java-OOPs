@@ -1,122 +1,151 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=00FFFF&center=true&vCenter=true&width=1000&lines=CYBERPUNK+README+LAB;Single+File+Edition;Animated+But+GitHub+Safe;Markdown+Without+Limits" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffcc?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ENGINE-MARKDOWN-00ffff?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00FFCC&center=true&vCenter=true&width=1000&lines=CYBEROS+v1.0;Booting+System...;Initializing+Modules...;Access+Granted" />
 </p>
 
 ---
 
-# 🌌 CYBER GRID – MOVING PERSPECTIVE
+# 🖥 CYBEROS TERMINAL
+
+```
+> system.boot()
+> loading renderer............... OK
+> loading animation engine....... OK
+> bypassing svg restrictions..... OK
+> enabling pseudo-OS interface... OK
+> CYBEROS READY.
+```
+
+---
+
+# 🌌 SYSTEM WALLPAPER
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
 </p>
 
-> Simulated neon perspective grid using animated GIF (GitHub-safe).
+---
+
+# 🧠 CORE MONITOR
+
+| Module | Status |
+|--------|--------|
+| Animation Engine | 🟢 Online |
+| Stats API | 🟢 Online |
+| Badge Service | 🟢 Online |
+| GitHub Render Layer | 🟢 Stable |
+| Inline SVG Engine | 🔴 Blocked |
 
 ---
 
-# 🧠 PULSING AI CORE
+# 📊 SYSTEM DASHBOARD
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
-</p>
-
-> Continuous pulse animation representing the AI core.
-
----
-
-# 🧊 ROTATING WIREFRAME CUBE
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr1i8fWlP2QnVm/giphy.gif" width="280" />
-</p>
-
-> Infinite rotation loop (3D simulation via GIF).
-
----
-
-# 📊 LIVE SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOSHIL_DAS&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border=00ffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSHIL_DAS&theme=radical&border=00ffff" />
 </p>
 
 ---
 
-# 🐍 DATA STREAM VISUALIZER
+# 🐍 DATA STREAM
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🖥 SYSTEM ARCHITECTURE (TERMINAL VIEW)
-
-```
-┌──────────────────────────────┐
-│  USER TERMINAL               │
-│      ↓                       │
-│  MARKDOWN RENDER ENGINE      │
-│      ↓                       │
-│  GIF | BADGES | SVG (SAFE)   │
-│      ↓                       │
-│  GITHUB RENDER PIPELINE      │
-└──────────────────────────────┘
-```
-
----
-
-# 🔐 CLASSIFIED ZONE
+# 📂 FILE EXPLORER
 
 <details>
-<summary>CLICK TO DECRYPT</summary>
+<summary>📁 /system</summary>
 
 ```
-> INITIALIZING SYSTEM...
-> BYPASSING INLINE SVG LIMITATIONS...
-> SWITCHING TO SAFE RENDER MODE...
+/boot
+/kernel
+/renderer
+/animation
+/dashboard
+/network
+/security
+```
 
-GitHub blocks:
- - Inline <animate>
- - animateTransform
- - Complex SVG filters
+</details>
 
-GitHub allows:
- - Animated GIF
- - External SVG via <img>
- - Dynamic badge APIs
- - GitHub stats generators
+<details>
+<summary>📁 /logs</summary>
 
-This README uses only reliable features.
+```
+[INFO] README initialized
+[INFO] Animation engine online
+[WARN] Inline SVG blocked by GitHub
+[INFO] Switched to safe render mode
 ```
 
 </details>
 
 ---
 
-# 🌍 VISITOR COUNTER
+# 🧊 GRAPHICS MODULE
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff00ff&style=for-the-badge)
-
----
-
-# 🔥 CYBERPUNK MODE ACTIVE
-
-✔ Single file  
-✔ No assets folder  
-✔ Fully animated  
-✔ GitHub-safe  
-✔ Works on repo page  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKr1i8fWlP2QnVm/giphy.gif" width="300" />
+</p>
 
 ---
 
-> Markdown is static.  
-> Animation is just engineered illusion.
+# 🔐 SECURITY PANEL
+
+<details>
+<summary>🔒 Open Security Console</summary>
+
+```
+Firewall: Enabled
+Sanitizer Bypass: Not Required
+Injection Risk: None
+Execution Mode: Markdown-only
+```
+
+</details>
+
+---
+
+# 🌍 NETWORK MONITOR
+
+![Visitors](https://komarev.com/ghpvc/?username=JOSHIL_DAS&color=00ffcc&style=for-the-badge)
+
+---
+
+# ⚙ SYSTEM COMMANDS
+
+```
+help        → show modules
+reboot      → refresh README
+status      → display metrics
+scan        → inspect contributions
+```
+
+---
+
+# 🧬 KERNEL NOTE
+
+This pseudo-operating system UI is built using:
+
+- Markdown layout
+- ASCII interface design
+- Animated GIF simulations
+- GitHub Stats APIs
+- Badge services
+- Collapsible panels
+
+No JavaScript.
+No custom CSS.
+No external assets folder.
+Fully GitHub-safe.
+
+---
+
+# 🚀 CYBEROS v1.0 ACTIVE
+
+> This is not a README.  
+> It is an interface.
