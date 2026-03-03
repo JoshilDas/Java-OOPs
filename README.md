@@ -1,72 +1,105 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00FFCC&center=true&vCenter=true&width=1000&lines=CYBEROS+v1.0;Booting+System...;Initializing+Modules...;Access+Granted" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1200&color=00FFCC&center=true&vCenter=true&width=1000&lines=CYBEROS+v3.0;Bootloader+Active;Initializing+Kernel...;Loading+Desktop+Environment...;System+Ready" />
 </p>
 
 ---
 
-# 🖥 CYBEROS TERMINAL
+# 🧬 CYBEROS v3.0
 
 ```
-> system.boot()
-> loading renderer............... OK
-> loading animation engine....... OK
-> bypassing svg restrictions..... OK
-> enabling pseudo-OS interface... OK
-> CYBEROS READY.
+BIOS CHECK ......................... OK
+MEMORY CHECK ....................... OK
+RENDER ENGINE ...................... OK
+SECURITY LAYER ..................... OK
+ANIMATION MODULE ................... SAFE MODE
+BOOT COMPLETE.
 ```
 
 ---
 
-# 🌌 SYSTEM WALLPAPER
+# 🔐 LOGIN SCREEN
+
+```
++--------------------------------------+
+|              CYBEROS                 |
+|--------------------------------------|
+|  USERNAME: YOUR_USERNAME             |
+|  ACCESS LEVEL: ADMIN                 |
+|                                      |
+|  STATUS: AUTHENTICATED               |
++--------------------------------------+
+```
+
+---
+
+# 🖥 DESKTOP ENVIRONMENT
+
+---
+
+## 🧱 DESKTOP ICON GRID
+
+| 🖥 Terminal | 📊 Monitor | 📁 Files | 🌐 Network |
+|------------|------------|----------|------------|
+| Open CLI   | View stats | Browse FS| Live data  |
+
+| 🔒 Security | 🧠 Kernel | 📦 Packages | ⚙ Settings |
+|------------|----------|------------|------------|
+| Firewall   | Inspect  | Modules    | Config     |
+
+---
+
+# 🪟 WINDOW: TERMINAL
+
+```
+CYBEROS Terminal v3.0
+
+> help
+Available commands:
+  status
+  monitor
+  reboot
+  scan
+  logs
+  shutdown
+
+> status
+SYSTEM: ONLINE
+KERNEL: STABLE
+UPTIME: RENDER_SESSION
+```
+
+---
+
+# 🪟 WINDOW: SYSTEM MONITOR
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border=00ffff" />
 </p>
 
 ---
 
-# 🧠 CORE MONITOR
-
-| Module | Status |
-|--------|--------|
-| Animation Engine | 🟢 Online |
-| Stats API | 🟢 Online |
-| Badge Service | 🟢 Online |
-| GitHub Render Layer | 🟢 Stable |
-| Inline SVG Engine | 🔴 Blocked |
-
----
-
-# 📊 SYSTEM DASHBOARD
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOSHIL_DAS&show_icons=true&theme=radical&border_color=00ffff&title_color=00ffff&icon_color=ff00ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSHIL_DAS&theme=radical&border=00ffff" />
-</p>
-
----
-
-# 🐍 DATA STREAM
+# 🪟 WINDOW: NETWORK ACTIVITY
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 📂 FILE EXPLORER
+# 🪟 WINDOW: FILE SYSTEM
 
 <details>
-<summary>📁 /system</summary>
+<summary>📁 /</summary>
 
 ```
 /boot
 /kernel
-/renderer
-/animation
-/dashboard
+/system
+/apps
 /network
+/logs
 /security
 ```
 
@@ -76,76 +109,106 @@
 <summary>📁 /logs</summary>
 
 ```
-[INFO] README initialized
-[INFO] Animation engine online
-[WARN] Inline SVG blocked by GitHub
-[INFO] Switched to safe render mode
+[INFO] Boot sequence completed
+[INFO] Desktop environment active
+[INFO] Stats API connected
+[WARN] Inline SVG animations blocked (expected)
+[INFO] Operating in GIF safe mode
 ```
 
 </details>
 
 ---
 
-# 🧊 GRAPHICS MODULE
+# 🪟 WINDOW: SECURITY PANEL
+
+```
+Firewall .............. ENABLED
+Sanitizer ............. ACTIVE
+Injection Risk ........ NONE
+Execution Mode ........ Markdown-only
+Privilege Level ....... ADMIN
+```
+
+---
+
+# 🪟 WINDOW: PACKAGE MANAGER
+
+```
+Installed Modules:
+
+✔ Animation Engine (GIF Mode)
+✔ GitHub Stats Widget
+✔ Contribution Stream Visualizer
+✔ Badge Service Connector
+✔ Collapsible Window Manager
+```
+
+---
+
+# 🌌 DESKTOP WALLPAPER
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr1i8fWlP2QnVm/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
 </p>
 
 ---
 
-# 🔐 SECURITY PANEL
-
-<details>
-<summary>🔒 Open Security Console</summary>
+# 🔔 SYSTEM NOTIFICATIONS
 
 ```
-Firewall: Enabled
-Sanitizer Bypass: Not Required
-Injection Risk: None
-Execution Mode: Markdown-only
-```
-
-</details>
-
----
-
-# 🌍 NETWORK MONITOR
-
-![Visitors](https://komarev.com/ghpvc/?username=JOSHIL_DAS&color=00ffcc&style=for-the-badge)
-
----
-
-# ⚙ SYSTEM COMMANDS
-
-```
-help        → show modules
-reboot      → refresh README
-status      → display metrics
-scan        → inspect contributions
+[✔] System Boot Successful
+[✔] Renderer Stable
+[✔] GitHub API Connected
+[!] Inline SVG Engine Restricted
+[✔] Operating Normally
 ```
 
 ---
 
-# 🧬 KERNEL NOTE
+# 🧠 KERNEL INFO
 
-This pseudo-operating system UI is built using:
-
-- Markdown layout
-- ASCII interface design
-- Animated GIF simulations
-- GitHub Stats APIs
-- Badge services
-- Collapsible panels
-
-No JavaScript.
-No custom CSS.
-No external assets folder.
-Fully GitHub-safe.
+| Component | Status |
+|----------|--------|
+| Markdown Engine | 🟢 Stable |
+| GIF Renderer | 🟢 Active |
+| GitHub Stats API | 🟢 Connected |
+| Contribution Stream | 🟢 Active |
+| Inline Animation Engine | 🔴 Restricted |
 
 ---
 
-# 🚀 CYBEROS v1.0 ACTIVE
+# 📟 TASKBAR
 
-> This is not a README.  
-> It is an interface.
+```
+[ START ] [ TERMINAL ] [ MONITOR ] [ FILES ] [ NETWORK ] [ SECURITY ]  |  CYBEROS v3.0  |  USER: YOUR_USERNAME
+```
+
+---
+
+# 🌍 LIVE VISITOR MONITOR
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ffcc&style=for-the-badge)
+
+---
+
+# ⚙ SYSTEM SPECIFICATIONS
+
+```
+OS NAME: CYBEROS
+VERSION: 3.0
+ARCHITECTURE: Markdown-x64
+RENDER ENGINE: GitHub
+ANIMATION MODE: GIF SAFE MODE
+KERNEL TYPE: Static Render Simulation
+SHELL: ASCII-CLI
+```
+
+---
+
+# 🚀 SYSTEM STATE
+
+> This repository is not documentation.
+> 
+> It is a simulated operating system interface
+> rendered entirely through Markdown.
