@@ -12,7 +12,7 @@ MEMORY CHECK ....................... OK
 RENDER ENGINE ...................... OK
 SECURITY LAYER ..................... OK
 ANIMATION MODULE ................... SAFE MODE
-BOOT COMPLETE.
+BOOT COMPLETE......100%
 ```
 
 ---
