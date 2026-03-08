@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1200&color=00FFCC&center=true&vCenter=true&width=1000&lines=CYBEROS+v3.0;Bootloader+Active;Initializing+Kernel...;Loading+Desktop+Environment...;System+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1200&color=00FFCC&center=true&vCenter=true&width=1000&lines=CYBEROS+v3.5;Bootloader+Active;Initializing+Kernel...;Loading+Desktop+Environment...;System+Ready" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/KERNEL-STABLE-00ffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/RENDER_ENGINE-GITHUB-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/ANIMATION_MODE-GIF_SAFE-00ffcc?style=for-the-badge">
 </p>
 
 ---
 
-# 🧬 CYBEROS v3.0
+# 🧬 CYBEROS v3.5
 
 ```
 BIOS CHECK ......................... OK
@@ -14,6 +20,18 @@ SECURITY LAYER ..................... OK
 ANIMATION MODULE ................... SAFE MODE
 BOOT COMPLETE......100%
 ```
+
+---
+
+# ⚡ BOOT LOADER PROGRESS
+
+| Module | Status |
+|------|------|
+| Kernel Initialization | ██████████████████ 100% |
+| Security Layer | ██████████████████ 100% |
+| Renderer Engine | ██████████████████ 100% |
+| API Connections | ██████████████████ 100% |
+| Desktop Environment | ██████████████████ 100% |
 
 ---
 
@@ -51,21 +69,16 @@ BOOT COMPLETE......100%
 # 🪟 WINDOW: TERMINAL
 
 ```
-CYBEROS Terminal v3.0
+CYBEROS Terminal v3.5
 
 > help
 Available commands:
-  status
-  monitor
-  reboot
-  scan
-  logs
-  shutdown
-
-> status
-SYSTEM: ONLINE
-KERNEL: STABLE
-UPTIME: RENDER_SESSION
+ status
+ monitor
+ reboot
+ scan
+ logs
+ shutdown
 ```
 
 ---
@@ -88,6 +101,14 @@ UPTIME: RENDER_SESSION
 
 ---
 
+# 📡 DATA STREAM
+
+<p align="center">
+<img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="80%">
+</p>
+
+---
+
 # 🪟 WINDOW: FILE SYSTEM
 
 <details>
@@ -101,6 +122,19 @@ UPTIME: RENDER_SESSION
 /network
 /logs
 /security
+```
+
+</details>
+
+<details>
+<summary>📁 /apps</summary>
+
+```
+terminal.app
+monitor.app
+files.app
+network.app
+security.app
 ```
 
 </details>
@@ -132,6 +166,19 @@ Privilege Level ....... ADMIN
 
 ---
 
+# 🪟 WINDOW: PROCESS MONITOR
+
+```
+PID   PROCESS           CPU      MEMORY
+101   kernel            2%       120MB
+204   renderer          1%       80MB
+310   stats-api         1%       40MB
+450   animation-engine  2%       60MB
+502   network-monitor   1%       35MB
+```
+
+---
+
 # 🪟 WINDOW: PACKAGE MANAGER
 
 ```
@@ -142,6 +189,28 @@ Installed Modules:
 ✔ Contribution Stream Visualizer
 ✔ Badge Service Connector
 ✔ Collapsible Window Manager
+✔ Process Monitor
+✔ File Explorer
+```
+
+---
+
+# 🧠 SYSTEM ARCHITECTURE
+
+```
+USER
+ │
+ ▼
+DESKTOP UI
+ │
+ ▼
+MARKDOWN RENDER ENGINE
+ │
+ ▼
+GIF / BADGES / STATS API
+ │
+ ▼
+GITHUB RENDER PIPELINE
 ```
 
 ---
@@ -160,8 +229,8 @@ Installed Modules:
 [✔] System Boot Successful
 [✔] Renderer Stable
 [✔] GitHub API Connected
+[✔] Stats Engine Running
 [!] Inline SVG Engine Restricted
-[✔] Operating Normally
 ```
 
 ---
@@ -181,7 +250,7 @@ Installed Modules:
 # 📟 TASKBAR
 
 ```
-[ START ] [ TERMINAL ] [ MONITOR ] [ FILES ] [ NETWORK ] [ SECURITY ]  |  CYBEROS v3.0  |  USER: YOUR_USERNAME
+[ START ] [ TERMINAL ] [ MONITOR ] [ FILES ] [ NETWORK ] [ SECURITY ] [ PACKAGES ] | CYBEROS v3.5 | USER: YOUR_USERNAME
 ```
 
 ---
@@ -196,7 +265,7 @@ Installed Modules:
 
 ```
 OS NAME: CYBEROS
-VERSION: 3.0
+VERSION: 3.5
 ARCHITECTURE: Markdown-x64
 RENDER ENGINE: GitHub
 ANIMATION MODE: GIF SAFE MODE
@@ -208,7 +277,6 @@ SHELL: ASCII-CLI
 
 # 🚀 SYSTEM STATE
 
-> This repository is not documentation.
-> 
-> It is a simulated operating system interface
-> rendered entirely through Markdown.
+> This repository is not documentation.  
+>  
+> It is a simulated operating system interface rendered entirely through Markdown.
