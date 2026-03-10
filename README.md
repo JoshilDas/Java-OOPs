@@ -19,7 +19,7 @@ KERNEL LOAD ........................ OK
 SECURITY MODULE .................... OK
 RENDER ENGINE ...................... OK
 NETWORK STACK ...................... OK
-BOOT COMPLETE ...................... 100%
+BOOT         ....................... 100%
 ```
 
 ---
